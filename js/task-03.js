@@ -37,6 +37,7 @@ galleryImages.forEach((image) => {
 });
 
 // Стилізація
+ulGallery.style.listStyleType = "none";
 ulGallery.style.display = "flex";
 ulGallery.style.padding = "0";
 
